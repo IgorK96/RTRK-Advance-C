@@ -1,0 +1,1 @@
+uninitialized.o: ../uninitialized.c
